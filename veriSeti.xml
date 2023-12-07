@@ -1,0 +1,103 @@
+<?xml version ="1.0"?>
+<eserler>
+    <eser>
+        <dcTitle>Arnhem</dcTitle>
+        <dcSubject>Savaş</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Yulva Muhurcişi</dcContributor>
+        <dcDescription>Kitap bir kasabadaki akıl hastanesinde geçmektedir. Eğitimli hasta olan İvan Dmitriç ile Doktor Andrey Yefimıç arasındaki felsefi diyaloglar konu alınır. İvan Dmitriç maruz kaldığı adaletsizliğe ve içinde yaşamakta zorunda olduğu koşullara karşı çıkmaktadır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/arnhem-p-236513?vendorId=3</dcIdentifier>
+        <dcImage>image/arnhem.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Battle Story</dcTitle>
+        <dcSubject>Savaş</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Semsa Yeğin</dcContributor>
+        <dcDescription>Bir reklâm ajansında metin yazarlığı yapan Gordon Comstock, kapitalizmin yutturmacası olarak gördüğü reklâmcılıktan nefret eder, orta sınıfın boğucu yaşamından kaçarak şairliğe soyunur. Bu uğurda sevgilisinden ayrılmayı bile göze alır; ama romanın sürpriz sonunu yine sevgilisi yaratacaktır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.bkmkitap.com/aspidistra?gad_source=1gclid=EAIaIQobChMI3YDB3Kj7ggMVaZpoCR3gbQ1CEAAYASAAEgK_i_D_BwE</dcIdentifier>
+        <dcImage>image/aspidistra.jpg.htm</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Child and Grace</dcTitle>
+        <dcSubject>Realizm</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Tahsin Yucal</dcContributor>
+        <dcDescription>Yaşlı Goriot, Paris'te tutunmaya kararlı genç Rastignac ve şeytani Vautrin'in hikâyesini anlatır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/goriot-baba-p-194613?vendorId=3</dcIdentifier>
+        <dcImage>image/childGrace.jpg.jpg.htm</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Filed Stage</dcTitle>
+        <dcSubject>Polisiye</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Sadan Karadeniz</dcContributor>
+        <dcDescription>327'de İtalya'daki bir manastırda zehirlenerek öldürülen bir rahibin ardından başlatılan cinayet soruşturmasını anlatırken Orta Çağ Avrupası'nın olaylarını ve Ortaçağ felsefesini ele alır.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/gulun-adi-p-201163?vendorId=3</dcIdentifier>
+        <dcImage>image/failedStage.jpg.jpg.htm</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Guilty Tiger</dcTitle>
+        <dcSubject>Feminizm</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Caner Turan</dcContributor>
+        <dcDescription>Mary, 18. yüzyılın edilgen ve zayıf kadın karakterinin yerine, atılgan ve kendi kendini yetiştirmiş kadın figürünü okurlarına sunmakla beraber, eğitimin tek bir yolunun olmadığını ve bilhassa kadın için kendine yetmenin önemini vurgulamaktan geri kalmıy</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/mary-p-362067?vendorId=3</dcIdentifier>
+        <dcImage>image/guiltyTiger.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Feft Foot</dcTitle>
+        <dcSubject>Tarih</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Dilek Yucel</dcContributor>
+        <dcDescription>Ünlü tarihçi Norman Stone Dönüşen Avrupa’da 1880’lerden 1914 yılına kadar geçen süre içinde Avrupa’nın geçirdiği baş döndürücü değişime ve dönüşüme dikkat çekiyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/donusen-avrupa-1878-1919-p-342221?vendorId=3</dcIdentifier>
+        <dcImage>image/leftFoot.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Restored</dcTitle>
+        <dcSubject>Aşk</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Ali Berktay</dcContributor>
+        <dcDescription>Semerkant, Ömer Hayyam'ın yaşamı ve Benjamin'in Ömer Hayyam'ı anlama macerasını anlatıyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/semerkant-p-195314?vendorId=3</dcIdentifier>
+        <dcImage>image/restored.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Rule of Capture</dcTitle>
+        <dcSubject>Alegorik</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Mina Urgan</dcContributor>
+        <dcDescription>Kitap, II. Dünya Savaşı'nda yaşanan nükleer atom bombası etkisinden korunmak için Britanyalı bir grup çocuğun, uçak ile taşınmasını konu alarak başlıyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/sineklerin-tanrisi-p-194673?vendorId=3</dcIdentifier>
+        <dcImage>image/ruleOfCapture.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>The Tale of Dragons Egg</dcTitle>
+        <dcSubject>Poetika</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Cuneyt Yalaz</dcContributor>
+        <dcDescription>Edebiyat ve kültür kuramına yaptığı dahiyane katkılarla tanınan Terry Eagleton, bu kitabında Batı Kanonu’nun merkezinde duran Shakespeare’in oyunlarını çağımızın Marksist, feminist ve göstergebilimsel düşünceleri ışığında cesur ve özgün bir şekilde yeniden yorumluyor</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/william-shakespeare-p-339727?vendorId=3</dcIdentifier>
+        <dcImage>image/TheTaleOfDragonsEggs.jpg.jpg</dcImage>
+    </eser>
+    <eser>
+        <dcTitle>Understanding Internationel Reations</dcTitle>
+        <dcSubject>Fantastik Kurgu</dcSubject>
+        <dcCreator>Chris Brown</dcCreator>
+        <dcContributor>Seckin Selvi</dcContributor>
+        <dcDescription>Gabriel Garcia Marquez, "Yüzyıllık Yalnızlık" romanını 1967 senesinde Meksika'ya ilk gidişinde kaleme alıyor ve ortaya başyapıt diyebileceğimiz bu eser çıkıyor.</dcDescription>
+        <dcLanguage>TR</dcLanguage>
+        <dcIdentifier>https://www.idefix.com/yuzyillik-yalnizlik-p-201075?vendorId=3</dcIdentifier>
+        <dcImage>image/UnderstandingInternationelRelations.jpg.jpg</dcImage>
+    </eser>
+</eserler>
